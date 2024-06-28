@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/Data/genres_original"
+		},
+		{
+			"path": "../../../Downloads/Data/images_original"
+		}
+	],
+	"settings": {}
+}
