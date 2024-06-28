@@ -51,7 +51,9 @@ To analyze audio data, there are different features that can be studied and anal
 - **Mel Frequency Cepstral Coefficients (MFCC)**
 - **Chromagram**
 
-![Audio Features](MusicGen.png)
+![Audio Features](![image](https://github.com/Elangovan0101/Music-genre-classification/assets/152248833/836e73f2-d316-46dc-97c9-3dc8d1e23e4f)
+![image]
+)
 
 ## Approaches
 ### Current Approaches
